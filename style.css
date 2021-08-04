@@ -1,0 +1,82 @@
+body{
+    background-color: white;
+
+}
+
+.content{
+    margin: 0;
+}
+
+.nav1{
+    background-color: cornflowerblue;
+    height: 3rem;
+    padding: 0 7rem;
+}
+
+.nav2{
+    height: 2rem;
+    padding: 0 10rem;
+}
+
+.loc{
+    top: 3rem;
+}
+
+.fblock{
+    display: flex;
+    align-items: flex-end;
+    font-family: 'Ubuntu', sans-serif; 
+    height: 5rem;
+    color: white;
+    align-items: flex-end;
+    text-transform: none;
+    
+  }
+
+.ad{
+    background: url("adv.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    border: 1px solid black;
+}
+
+.fline{
+    display: grid;
+    font-size: 2rem;
+    text-align: center;
+    margin: 5rem 7rem 2rem;
+}
+
+.menubar{
+    margin: 0 10rem;
+}
+.searchmenu{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.searchform{
+    display: flex;
+    justify-content: center;
+    margin: 3rem 7rem;
+}
+
+.search{
+    height: 4rem;
+    border-radius: 50%;
+}
+
+.searchicon{
+    color: white;
+    background-color: cornflowerblue;
+    padding: 0 2rem;
+}
+
+
+.ad{
+    background-image: url();
+}
